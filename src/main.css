@@ -1,0 +1,19 @@
+.bcg-dark-blue {
+  background-color: rgb(37, 37, 133);
+}
+
+.bcg-med-blue {
+  background-color: rgb(110, 110, 233);
+}
+
+.f-wrap {
+  flex-wrap: wrap;
+}
+
+.t-dark-blue {
+  color: rgb(37, 37, 133);
+}
+
+.t-white {
+  color: white;
+}
