@@ -23,7 +23,7 @@ After one employee profile is complete, the user is prompted to add more team me
 
 ## Walkthrough Video
 
-![Here is my application walkthrough video]
+![Here is my application walkthrough video](https://drive.google.com/file/d/11Hmg8TCwmAZnkWpOfF3d6xE8zR2KoQEO/view?usp=sharing)
 
 ## Link
 
