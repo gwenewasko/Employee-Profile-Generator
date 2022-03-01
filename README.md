@@ -21,7 +21,10 @@ After one employee profile is complete, the user is prompted to add more team me
 
 ![My team profile generator application with 3 employee profiles added](./img/hw10-screenshot.png)
 
-## Links
+## Walkthrough Video
 
-- [Here is my repo]()
-- [Here is the finished deployed file]()
+![Here is my application walkthrough video]
+
+## Link
+
+- [Here is my repo](https://github.com/gwenewasko/Employee-Profile-Generator)
